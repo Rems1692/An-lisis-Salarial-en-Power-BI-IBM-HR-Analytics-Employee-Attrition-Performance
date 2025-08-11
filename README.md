@@ -25,3 +25,30 @@ El grupo de edad entre 30-39 años concentra la mayor masa salarial.
 
 Este ejercicio me ayudó a interpretar datos reales, construir visualizaciones efectivas y comunicar hallazgos que pueden ser valiosos para la toma de decisiones en empresas.
 
+---
+
+## 📊 Captura del Dashboard
+<img width="1310" height="752" alt="image" src="https://github.com/user-attachments/assets/3d6a5044-23fc-4fd0-b758-98f75da65207" />
+
+
+---
+
+## 📁 Archivos Incluidos
+
+- `Dashboard.pbix`: Dashboard de Productos Rentables en Power BI
+
+---
+
+## 🛠️ Herramientas Usadas
+
+- Power BI Desktop  
+- Lenguaje DAX  
+- Limpieza de datos en Power Query
+
+---
+
+## 📌 Autor
+
+- 👨‍💻 Ramses Marciaga  
+- 💼 Analista de Datos  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/ramses-eduardo-marciaga-sanchez-2b624374
